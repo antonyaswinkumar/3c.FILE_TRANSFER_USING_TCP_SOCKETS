@@ -1,4 +1,4 @@
-# 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+<img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/16f92b02-2c08-4714-ae1e-b5ee2e456abb" /># 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
@@ -58,7 +58,8 @@ while True:
 
 ## OUPUT
 
-<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/96683b22-59e1-4d06-9182-21ae0cdd83fc" />
+
+<img width="1917" height="1027" alt="Screenshot 2026-05-25 195144" src="https://github.com/user-attachments/assets/7205cf45-0c15-41c3-904b-3a7cea437d73" />
 
 
 ## RESULT
