@@ -1,4 +1,4 @@
-<img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/16f92b02-2c08-4714-ae1e-b5ee2e456abb" /># 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+# 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
